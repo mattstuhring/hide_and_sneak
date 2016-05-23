@@ -1,0 +1,78 @@
+html {
+  font-family: 'Mr Dafoe', cursive;
+}
+h5 {
+  font-size: 4em;
+  word-spacing: 10px;
+}
+nav i.material-icons {
+  font-size: 2rem;
+}
+.logo {
+  height: 100%;
+  margin-left: 15px;
+  padding: 6px;
+}
+nav .nav-wrapper {
+  height: 125%;
+}
+@media only screen and (min-width: 601px) {
+  nav .nav-wrapper i {
+      height: 64px;
+      line-height: 77px;
+}
+@media only screen and (min-width: 601px) {
+  nav  {
+      height: 64px;
+      line-height: 77px;
+}
+.footer-copyright {
+  background-image: url("leather.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.slider_background {
+  background-image: url("Tex-white.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+footer.page-footer {
+  padding-top: 0;
+  padding-bottom: 1;
+}
+.slider_background {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.copy {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 1em;
+}
+.featured {
+  font-family: serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**/
